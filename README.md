@@ -46,5 +46,4 @@ I am actively preparing for Google Summer of Code (GSoC) 2025, aiming to contrib
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajeev0521&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=rajeev0521&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
