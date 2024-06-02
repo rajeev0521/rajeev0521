@@ -45,5 +45,4 @@ I am actively preparing for Google Summer of Code (GSoC) 2025, aiming to contrib
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajeev0521&icon=0&color=4)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=rajeev0521&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
