@@ -1,6 +1,7 @@
 # 💫 About Me:
 ### **Rajeev Gupta**
-**About Me**<br>Hello! I'm Rajeev Gupta, a second-year B.Tech Computer Science and Engineering student at Sharda University, specializing in Artificial Intelligence and Machine Learning. I am passionate about exploring the vast possibilities that AI and ML offer and am dedicated to expanding my knowledge in these fields.<br><br>
+**About Me**<br>Hi! I’m 𝗥𝗮𝗷𝗲𝗲𝘃 𝗚𝘂𝗽𝘁𝗮, BTech CSE student specializing in AI & ML with a strong foundation in Machine Learning and Deep Learning. I’m passionate about creating innovative AI models and exploring real-world applications of data-driven technologies.
+<br><br>
 ### **Technical Skills**
 **Programming Languages:** Python, C, C++, Java, JavaScript<br>**Specialization:** Artificial Intelligence & Machine Learning<br>**Current Focus:** I am currently focused on learning and applying AI and ML concepts through various projects and coursework. My journey in tech is driven by curiosity and a desire to create innovative solutions.<br><br>
 ### **Goals**
